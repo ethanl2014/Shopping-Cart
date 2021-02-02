@@ -1,3 +1,3 @@
-# Shopping-Cart UI designed for a class project
+# Shopping-Cart
 
-Run in Qt Creator
+Designed for a team class project in college. Run in Qt Creator
